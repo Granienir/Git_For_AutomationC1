@@ -1,0 +1,5 @@
+git init 
+git config user.name "Illia Hnitetskyi"
+git config user.email "ilya.13.654@gmail.com" 
+git remote add origin https://github.com/Granienir/Git_For_AutomationC1
+git fetch
